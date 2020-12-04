@@ -1,0 +1,15 @@
+{
+    "token": "NzEyNzg1MzQyOTMxMDA5NTY3.XsWnFA.WZKcedAohmjCCOvAHsqi2R9TBrY",
+    "prefix": "!",
+    "canais": {
+        "whitelist": "776397952352518144",
+        "resultados": "776397954545352704"
+    },
+    "cargos": {
+        "noWhitelisted": "776397899612946432",
+        "whitelisted": "776397898882482196"
+    },
+    "categorias": {
+        "whitelist": "776397909444657163"
+    }
+}
